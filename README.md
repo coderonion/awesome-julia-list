@@ -21,6 +21,7 @@
     - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Machine Learning](#machine-learning)
     - [Machine Learning Framework](#machine-learning-framework)
+    - [Object Detection](#object-detection)
   - [Image and Video Processing](#image-and-video-processing)
   - [Web Framework](#web-framework)
   - [Performance Benchmark](#performance-benchmark)
@@ -151,6 +152,22 @@
 
     - [MLJ](https://github.com/alan-turing-institute/MLJ.jl) <img src="https://img.shields.io/github/stars/alan-turing-institute/MLJ.jl?style=social"/> : A Machine Learning Framework for Julia. MLJ (Machine Learning in Julia) is a toolbox written in Julia providing a common interface and meta-algorithms for selecting, tuning, evaluating, composing and comparing about [200 machine learning models](https://alan-turing-institute.github.io/MLJ.jl/dev/model_browser/#Model-Browser) written in Julia and other languages.
 
+    - [ITensor](https://github.com/ITensor/ITensors.jl) <img src="https://img.shields.io/github/stars/ITensor/ITensors.jl?style=social"/> : A Julia library for efficient tensor computations and tensor network calculations. [itensor.org](https://itensor.org/)
+
+    - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) <img src="https://img.shields.io/github/stars/Jutho/TensorOperations.jl?style=social"/> : Julia package for tensor contractions and related operations. [jutho.github.io/TensorOperations.jl/stable/](about:blank)
+
+    - [TensorKit.jl](https://github.com/Jutho/TensorKit.jl) <img src="https://img.shields.io/github/stars/Jutho/TensorKit.jl?style=social"/> : A Julia package for large-scale tensor computations, with a hint of category theory.
+
+
+
+
+  - ### Object Detection
+
+    - [ObjectDetector.jl](https://github.com/r3tex/ObjectDetector.jl) <img src="https://img.shields.io/github/stars/r3tex/ObjectDetector.jl?style=social"/> : Pure Julia implementations of single-pass object detection neural networks. 
+
+    - [AndreyGermanov/yolov8_onnx_julia](https://github.com/AndreyGermanov/yolov8_onnx_julia) <img src="https://img.shields.io/github/stars/AndreyGermanov/yolov8_onnx_julia?style=social"/> : YOLOv8 inference using Julia.
+
+    - [IanButterworth/YOLO.jl](https://github.com/IanButterworth/YOLO.jl) <img src="https://img.shields.io/github/stars/IanButterworth/YOLO.jl?style=social"/> : YOLO Object Detection in Julia.
 
 
 
