@@ -127,6 +127,9 @@
 
     - [JuMP](https://github.com/jump-dev/JuMP.jl) <img src="https://img.shields.io/github/stars/jump-dev/JuMP.jl?style=social"/> : Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). [jump.dev/](https://jump.dev/)
 
+    - [EAGO](https://github.com/PSORLab/EAGO.jl) <img src="https://img.shields.io/github/stars/PSORLab/EAGO.jl?style=social"/> : EAGO: Easy-Advanced Global Optimization. EAGO is an open-source development environment for robust and global optimization in Julia.
+
+
 
 
 
