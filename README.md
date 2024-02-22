@@ -41,7 +41,7 @@
 
   - ### Awesome List
 
-    - [greister/Awesome-Julia](https://github.com/greister/Awesome-Julia) <img src="https://img.shields.io/github/stars/greister/Awesome-Julia?style=social"/> : A curated list of awesome julia libraries, softwares and tutorials. 
+    - [greister/Awesome-Julia](https://github.com/greister/Awesome-Julia) <img src="https://img.shields.io/github/stars/greister/Awesome-Julia?style=social"/> : A curated list of awesome julia libraries, softwares and tutorials.
 
     - [old-julia-codes/awesomeJulia](https://github.com/old-julia-codes/awesomeJulia) <img src="https://img.shields.io/github/stars/old-julia-codes/awesomeJulia?style=social"/> : awesome Julia.
 
@@ -65,9 +65,9 @@
 
 
 
-## Data Structure and Algorithm 
+## Data Structure and Algorithm
 
-  - [TheAlgorithms/Julia](https://github.com/TheAlgorithms/Julia) <img src="https://img.shields.io/github/stars/TheAlgorithms/Julia?style=social"/> : Algorithms implemented in Julia (for educational purposes). 
+  - [TheAlgorithms/Julia](https://github.com/TheAlgorithms/Julia) <img src="https://img.shields.io/github/stars/TheAlgorithms/Julia?style=social"/> : Algorithms implemented in Julia (for educational purposes).
 
   - [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) <img src="https://img.shields.io/github/stars/mossr/BeautifulAlgorithms.jl?style=social"/> : Concise and beautiful algorithms written in Julia.
 
@@ -81,7 +81,7 @@
 
 
 
-## FFI Bindings 
+## FFI Bindings
 
   - [PyCall](https://github.com/JuliaPy/PyCall.jl) <img src="https://img.shields.io/github/stars/JuliaPy/PyCall.jl?style=social"/> : Calling Python functions from the Julia language.
 
@@ -91,13 +91,12 @@
 
 
 
-## GPU Computing 
+## GPU Computing
 
   - [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) <img src="https://img.shields.io/github/stars/JuliaGPU/CUDA.jl?style=social"/> : CUDA programming in Julia. [juliagpu.org/](https://juliagpu.org/)
 
   - [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl) <img src="https://img.shields.io/github/stars/JuliaGPU/AMDGPU.jl?style=social"/> : AMD GPU (ROCm) programming in Julia.
 
-    
 
 
 
@@ -115,15 +114,15 @@
 
   - ### Linear Algebra
 
+    - [GenericLinearAlgebra.jl](https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl) <img src="https://img.shields.io/github/stars/JuliaLinearAlgebra/GenericLinearAlgebra.jl?style=social"/> : Generic numerical linear algebra in Julia.
+
     - [JuliaArrays/LazyArrays.jl](https://github.com/JuliaArrays/LazyArrays.jl) <img src="https://img.shields.io/github/stars/JuliaArrays/LazyArrays.jl?style=social"/> : Lazy arrays and linear algebra in Julia.
 
-    - [JuliaLinearAlgebra/GenericLinearAlgebra.jl](https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl) <img src="https://img.shields.io/github/stars/JuliaLinearAlgebra/GenericLinearAlgebra.jl?style=social"/> : Generic numerical linear algebra in Julia.
 
 
 
 
-
-  - ### Optimization Engine 
+  - ### Optimization Engine
 
     - [JuMP](https://github.com/jump-dev/JuMP.jl) <img src="https://img.shields.io/github/stars/jump-dev/JuMP.jl?style=social"/> : Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear). [jump.dev/](https://jump.dev/)
 
@@ -166,7 +165,7 @@
 
   - ### Object Detection
 
-    - [ObjectDetector.jl](https://github.com/r3tex/ObjectDetector.jl) <img src="https://img.shields.io/github/stars/r3tex/ObjectDetector.jl?style=social"/> : Pure Julia implementations of single-pass object detection neural networks. 
+    - [ObjectDetector.jl](https://github.com/r3tex/ObjectDetector.jl) <img src="https://img.shields.io/github/stars/r3tex/ObjectDetector.jl?style=social"/> : Pure Julia implementations of single-pass object detection neural networks.
 
     - [AndreyGermanov/yolov8_onnx_julia](https://github.com/AndreyGermanov/yolov8_onnx_julia) <img src="https://img.shields.io/github/stars/AndreyGermanov/yolov8_onnx_julia?style=social"/> : YOLOv8 inference using Julia.
 
@@ -207,6 +206,6 @@
 ## Blogs
 
   - [MatecDev](https://www.matecdev.com/)
-    - [2021-09-20，Testing Julia: Fast as Fortran, Versatile as Python](https://www.matecdev.com/posts/numpy-julia-fortran.html)   
-    - [2022-01-17，Julia vs Numba and Cython: Looking Beyond Microbenchmarks](https://www.matecdev.com/posts/julia-python-numba-cython.html)   
-    - [2023-06-02，Julia: 17X Faster than Python's Scipy, and Easier Too!](https://www.matecdev.com/posts/julia-17x-faster-vs-python-scipy.html)   
+    - [2021-09-20，Testing Julia: Fast as Fortran, Versatile as Python](https://www.matecdev.com/posts/numpy-julia-fortran.html)
+    - [2022-01-17，Julia vs Numba and Cython: Looking Beyond Microbenchmarks](https://www.matecdev.com/posts/julia-python-numba-cython.html)
+    - [2023-06-02，Julia: 17X Faster than Python's Scipy, and Easier Too!](https://www.matecdev.com/posts/julia-17x-faster-vs-python-scipy.html)
